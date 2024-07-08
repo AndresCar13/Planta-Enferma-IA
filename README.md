@@ -7,6 +7,21 @@ Identificar enfermedades en hojas de yuca a partir de imágenes utilizando técn
 
 Dataset: https://drive.google.com/drive/folders/1xlapbeMwcE-qVJyJg0EHpjdZcH1KVSCG?usp=drive_link
 
+Descripción del Dataset:
+Imágenes: El dataset contiene imágenes de hojas de yuca capturadas en diferentes condiciones y entornos.
+
+Clases de Etiquetas:
+
+- Cassava Bacterial Blight (CBB): Enfermedad bacteriana que afecta a las hojas de yuca.
+- Cassava Brown Streak Disease (CBSD): Enfermedad que causa manchas en las hojas y daños en la raíz.
+- Cassava Green Mottle (CGM): Enfermedad que causa motas verdes en las hojas de yuca.
+- Cassava Mosaic Disease (CMD): Enfermedad viral que provoca patrones mosaico en las hojas.
+- Healthy: Imágenes de hojas de yuca sanas sin signos de enfermedad.
+  
+Número de Imágenes: El dataset contiene un número variado de imágenes por clase, con un total suficiente para entrenar y evaluar modelos de aprendizaje automático.
+
+Preprocesamiento: Antes de usarlas para entrenar el modelo, las imágenes se redimensionaron y normalizaron para asegurar que todas tuvieran el mismo tamaño y escala.
+
 Modelos: Convolutional Neural Network (CNN), Transfer Learning, Data Augmentation, Image Classification, TensorFlow, Keras.
 
 Enlaces:
