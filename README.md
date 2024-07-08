@@ -24,6 +24,7 @@ Preprocesamiento: Antes de usarlas para entrenar el modelo, las imágenes se red
 Modelos: Convolutional Neural Network (CNN), Transfer Learning, Data Augmentation, Image Classification, TensorFlow, Keras.
 
 Enlaces:
+
   Código: https://drive.google.com/drive/folders/1ai_aLl4YD0qhEXd3QD7vUxGclj2_Hfq-?usp=sharing
   Video: https://youtu.be/IAKzJZKlDfE
   Repositorio: https://github.com/AndresCar13/Planta-Enferma-IA.git
