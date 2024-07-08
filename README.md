@@ -18,8 +18,6 @@ Clases de Etiquetas:
 - Cassava Green Mottle (CGM): Enfermedad que causa motas verdes en las hojas de yuca.
 - Cassava Mosaic Disease (CMD): Enfermedad viral que provoca patrones mosaico en las hojas.
 - Healthy: Imágenes de hojas de yuca sanas sin signos de enfermedad.
-  
-Número de Imágenes: El dataset contiene un número variado de imágenes por clase, con un total suficiente para entrenar y evaluar modelos de aprendizaje automático.
 
 Preprocesamiento: Antes de usarlas para entrenar el modelo, las imágenes se redimensionaron y normalizaron para asegurar que todas tuvieran el mismo tamaño y escala.
 
