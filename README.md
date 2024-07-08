@@ -1,9 +1,9 @@
 # Planta-Enferma-IA
 ![BANNER](https://github.com/AndresCar13/Planta-Enferma-IA/assets/109597254/a0c58bef-671d-489f-b439-994bef195a47)
 
-Andrés Felipe Cárdenas Zárate - 2204120
+Autores: Andrés Felipe Cárdenas Zárate - 2204120
 
-Identificar enfermedades en hojas de yuca a partir de imágenes utilizando técnicas de inteligencia artificial.
+Objetivo: Identificar enfermedades en hojas de yuca a partir de imágenes utilizando técnicas de inteligencia artificial.
 
 Dataset: https://drive.google.com/drive/folders/1xlapbeMwcE-qVJyJg0EHpjdZcH1KVSCG?usp=drive_link
 
