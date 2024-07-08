@@ -8,6 +8,7 @@ Identificar enfermedades en hojas de yuca a partir de imágenes utilizando técn
 Dataset: https://drive.google.com/drive/folders/1xlapbeMwcE-qVJyJg0EHpjdZcH1KVSCG?usp=drive_link
 
 Descripción del Dataset:
+
 Imágenes: El dataset contiene imágenes de hojas de yuca capturadas en diferentes condiciones y entornos.
 
 Clases de Etiquetas:
